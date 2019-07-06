@@ -1,1 +1,1 @@
-Code created in the realm of Stanford's first course of Algorithms and Data Structures Specialization: Divide and Conquer, Sorting and Searching, and Randomized Algorithms[https://www.coursera.org/learn/algorithms-divide-conquer/].
+Code created in the realm of Stanford's first course of Algorithms and Data Structures Specialization: [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer/).
